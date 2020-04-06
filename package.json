@@ -1,0 +1,19 @@
+{
+  "name": "avm_cv",
+  "version": "1.0.0",
+  "description": "cv landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMatyushchenko/MyWebsite.git"
+  },
+  "author": "AVM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMatyushchenko/MyWebsite/issues"
+  },
+  "homepage": "https://github.com/AndrewMatyushchenko/MyWebsite#readme"
+}
