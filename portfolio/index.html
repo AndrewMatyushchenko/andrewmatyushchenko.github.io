@@ -27,13 +27,14 @@
     <body>
         <div>
             <div id="girlPirat-container" style="width: 640px; height: 480px"></div>
-            <div id="fairy-container" style="width: 640px; height: 480px"></div>
+            <div id="horus-container" style="width: 640px; height: 480px"></div>
             <div id="witch-container" style="width: 640px; height: 480px"></div>
             <div id="viking_n-container" style="width: 640px; height: 480px"></div>
-            <div id="telka-container" style="width: 640px; height: 480px"></div>
+            <div id="sofaLocation-container" style="width: 800px; height: 600px"></div>
             <div id="burgerCafe-container" style="width: 640px; height: 480px"></div>
-            <iframe src="https://www.youtube.com/embed/Yt_BzGs8H28" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/ffAK-UvUomA" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/Yt_BzGs8H28" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/twsPOtGmdfY" width="1366" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/ozIP4WLezu4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/3m39whWGFNs" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/PuIPCi_tIVY" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -54,12 +55,12 @@
             animation: "animation_win"
         });
 
-        new spine.SpinePlayer("fairy-container", {
-            jsonUrl: "assets/fairy/fairy_root.json",
-            atlasUrl: "assets/fairy/fairy_root.atlas",
-            backgroundColor: "6666cc",
-            animations: ["animation_idle", "animation_win2"],
-            animation: "animation_win2"
+        new spine.SpinePlayer("horus-container", {
+            jsonUrl: "assets/horus/Horus.json",
+            atlasUrl: "assets/horus/Horus.atlas",
+            backgroundColor: "660000",
+            //animations: ["animation_idle", "animation_win2"],
+            //animation: "animation_win2"
         });
         
         new spine.SpinePlayer("witch-container", {
@@ -76,10 +77,11 @@
             backgroundColor: "#122136",
         });
 
-        new spine.SpinePlayer("telka-container", {
-            jsonUrl: "assets/beerfest/Junior.json",
-            atlasUrl: "assets/beerfest/Junior.atlas",
-            backgroundColor: "663333",
+        new spine.SpinePlayer("sofaLocation-container", {
+            jsonUrl: "assets/sofaLocation/Sofa_location.json",
+            atlasUrl: "assets/sofaLocation/Sofa_location.atlas",
+            backgroundColor: "999999",
+            animation: "sofa_action"
         });
 
         new spine.SpinePlayer("burgerCafe-container", {
