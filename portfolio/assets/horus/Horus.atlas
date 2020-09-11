@@ -1,0 +1,181 @@
+
+Horus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 685
+  size: 380, 337
+  orig: 391, 341
+  offset: 4, 0
+  index: -1
+beak_a1
+  rotate: true
+  xy: 504, 30
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+beak_a2
+  rotate: false
+  xy: 571, 53
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+beak_b1
+  rotate: true
+  xy: 429, 2
+  size: 87, 73
+  orig: 87, 74
+  offset: 0, 1
+  index: -1
+beak_b2
+  rotate: false
+  xy: 2, 34
+  size: 86, 29
+  orig: 86, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 277
+  size: 293, 406
+  orig: 362, 406
+  offset: 0, 0
+  index: -1
+cape_2
+  rotate: true
+  xy: 297, 286
+  size: 121, 206
+  orig: 287, 307
+  offset: 163, 0
+  index: -1
+cape_a1
+  rotate: false
+  xy: 321, 91
+  size: 161, 193
+  orig: 163, 193
+  offset: 0, 0
+  index: -1
+cape_a2
+  rotate: false
+  xy: 748, 464
+  size: 236, 183
+  orig: 236, 194
+  offset: 0, 11
+  index: -1
+cape_b
+  rotate: false
+  xy: 2, 65
+  size: 317, 210
+  orig: 351, 219
+  offset: 16, 9
+  index: -1
+eye_1
+  rotate: true
+  xy: 62, 6
+  size: 26, 22
+  orig: 30, 30
+  offset: 3, 4
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 3
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 3
+  index: -1
+frame_down
+  rotate: true
+  xy: 759, 649
+  size: 373, 246
+  orig: 373, 252
+  offset: 0, 0
+  index: -1
+frame_up
+  rotate: false
+  xy: 384, 685
+  size: 373, 337
+  orig: 373, 337
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 505, 217
+  size: 157, 200
+  orig: 159, 203
+  offset: 1, 2
+  index: -1
+glow2
+  rotate: true
+  xy: 542, 376
+  size: 307, 204
+  orig: 311, 207
+  offset: 3, 1
+  index: -1
+glow3
+  rotate: false
+  xy: 801, 22
+  size: 136, 149
+  orig: 153, 171
+  offset: 12, 11
+  index: -1
+glow4
+  rotate: true
+  xy: 297, 409
+  size: 274, 243
+  orig: 276, 252
+  offset: 1, 6
+  index: -1
+head
+  rotate: true
+  xy: 801, 173
+  size: 155, 182
+  orig: 179, 229
+  offset: 15, 37
+  index: -1
+headdress
+  rotate: false
+  xy: 321, 10
+  size: 106, 79
+  orig: 123, 83
+  offset: 8, 4
+  index: -1
+left_eyelids
+  rotate: true
+  xy: 33, 2
+  size: 30, 27
+  orig: 32, 28
+  offset: 0, 1
+  index: -1
+left_hand
+  rotate: true
+  xy: 484, 119
+  size: 96, 172
+  orig: 96, 189
+  offset: 0, 13
+  index: -1
+right_eyelids
+  rotate: false
+  xy: 86, 9
+  size: 22, 23
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 748, 330
+  size: 132, 263
+  orig: 152, 265
+  offset: 0, 0
+  index: -1
+right_hand3
+  rotate: false
+  xy: 658, 9
+  size: 141, 206
+  orig: 143, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,342 @@
+
+Sofa_location.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!Sofa2_fabric_whole
+  rotate: false
+  xy: 864, 723
+  size: 57, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+!Sofa2_whole
+  rotate: false
+  xy: 2, 463
+  size: 456, 121
+  orig: 456, 121
+  offset: 0, 0
+  index: -1
+Sofa2_back_l
+  rotate: false
+  xy: 308, 631
+  size: 143, 64
+  orig: 143, 64
+  offset: 0, 0
+  index: -1
+Sofa2_back_pillow1
+  rotate: false
+  xy: 681, 674
+  size: 72, 57
+  orig: 73, 57
+  offset: 1, 0
+  index: -1
+Sofa2_back_pillow2
+  rotate: false
+  xy: 149, 648
+  size: 86, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+Sofa2_back_pillow3
+  rotate: false
+  xy: 2, 652
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Sofa2_back_pillow3_shadow
+  rotate: false
+  xy: 2, 791
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Sofa2_back_r
+  rotate: false
+  xy: 553, 683
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Sofa2_down_part_l
+  rotate: false
+  xy: 198, 749
+  size: 199, 32
+  orig: 199, 32
+  offset: 0, 0
+  index: -1
+Sofa2_down_part_r
+  rotate: false
+  xy: 710, 771
+  size: 177, 27
+  orig: 177, 27
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_down
+  rotate: false
+  xy: 594, 737
+  size: 47, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_down_back
+  rotate: true
+  xy: 290, 784
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_shadow
+  rotate: false
+  xy: 546, 739
+  size: 46, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_up
+  rotate: false
+  xy: 923, 723
+  size: 51, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_up_back
+  rotate: true
+  xy: 265, 787
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+Sofa2_fabric_up_blend_shadow
+  rotate: false
+  xy: 518, 781
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Sofa2_legs_part_l
+  rotate: false
+  xy: 376, 697
+  size: 175, 40
+  orig: 175, 40
+  offset: 0, 0
+  index: -1
+Sofa2_legs_part_r
+  rotate: false
+  xy: 694, 733
+  size: 168, 36
+  orig: 168, 36
+  offset: 0, 0
+  index: -1
+Sofa2_main_shadow
+  rotate: false
+  xy: 453, 586
+  size: 305, 86
+  orig: 306, 86
+  offset: 1, 0
+  index: -1
+Sofa2_pillow1
+  rotate: false
+  xy: 89, 652
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Sofa2_pillow1_down_shadow
+  rotate: false
+  xy: 201, 788
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+Sofa2_pillow1_side_shadow
+  rotate: false
+  xy: 593, 779
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Sofa2_pillow2
+  rotate: false
+  xy: 152, 751
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Sofa2_pillow2_down_shadow
+  rotate: false
+  xy: 99, 790
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Sofa2_pillow2_side_shadow
+  rotate: false
+  xy: 126, 790
+  size: 23, 8
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Sofa2_pillow3
+  rotate: true
+  xy: 675, 777
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Sofa2_pillow3_down_shadow
+  rotate: false
+  xy: 236, 788
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+Sofa2_pillow3_side_shadow
+  rotate: false
+  xy: 628, 778
+  size: 23, 20
+  orig: 29, 20
+  offset: 5, 0
+  index: -1
+Sofa2_pillow4
+  rotate: false
+  xy: 643, 735
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Sofa2_pillow4_down_shadow
+  rotate: false
+  xy: 23, 791
+  size: 74, 7
+  orig: 74, 7
+  offset: 0, 0
+  index: -1
+Sofa2_pillow4_side_shadow
+  rotate: true
+  xy: 984, 758
+  size: 40, 37
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Sofa2_pillow5
+  rotate: false
+  xy: 889, 767
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Sofa2_pillow5_shadow
+  rotate: false
+  xy: 934, 767
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Sofa2_pillow6
+  rotate: false
+  xy: 976, 714
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Sofa2_pillow6_down_shadow
+  rotate: false
+  xy: 151, 790
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+Sofa2_pillow6_shadow_r
+  rotate: true
+  xy: 554, 781
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+Sofa2_pillow6_side_shadow
+  rotate: false
+  xy: 653, 778
+  size: 20, 20
+  orig: 21, 21
+  offset: 1, 0
+  index: -1
+Sofa2_pillow_down_l
+  rotate: false
+  xy: 2, 712
+  size: 167, 37
+  orig: 167, 37
+  offset: 0, 0
+  index: -1
+Sofa2_pillow_down_r
+  rotate: false
+  xy: 399, 746
+  size: 145, 33
+  orig: 145, 33
+  offset: 0, 0
+  index: -1
+Sofa2_pillow_down_shadow_l
+  rotate: false
+  xy: 380, 783
+  size: 136, 15
+  orig: 136, 15
+  offset: 0, 0
+  index: -1
+Sofa2_pillow_side_l
+  rotate: true
+  xy: 237, 644
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Sofa2_pillow_side_r
+  rotate: true
+  xy: 755, 674
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+Sofa2_pillow_side_shadow_l
+  rotate: false
+  xy: 321, 784
+  size: 57, 14
+  orig: 57, 14
+  offset: 0, 0
+  index: -1
+Sofa2_reflection
+  rotate: false
+  xy: 460, 419
+  size: 491, 165
+  orig: 491, 165
+  offset: 0, 0
+  index: -1
+Sofa2_settee_blend_shadow
+  rotate: false
+  xy: 171, 709
+  size: 203, 38
+  orig: 205, 38
+  offset: 1, 0
+  index: -1
+Sofa2_settee_down
+  rotate: false
+  xy: 2, 756
+  size: 148, 32
+  orig: 148, 32
+  offset: 0, 0
+  index: -1
+Sofa2_settee_up
+  rotate: false
+  xy: 815, 664
+  size: 150, 57
+  orig: 150, 57
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 2
+  size: 673, 415
+  orig: 673, 415
+  offset: 0, 0
+  index: -1
