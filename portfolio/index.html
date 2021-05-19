@@ -33,9 +33,6 @@
             <iframe src="https://www.youtube.com/embed/I4FrbveaAAA" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/STYP-ntyea4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/kD2gRHsy69o" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-            <div id="girlPirat-container" style="width: 640px; height: 480px"></div>
-            <div id="witch-container" style="width: 640px; height: 480px"></div>
-            <div id="sofaLocation-container" style="width: 640px; height: 480px"></div>
             <iframe src="https://www.youtube.com/embed/ffAK-UvUomA" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/8tiQX_GVetI" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/q7Dw9jF4cr4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -45,6 +42,10 @@
             <iframe src="https://www.youtube.com/embed/rSyvcojJTTg" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             <iframe src="https://www.youtube.com/embed/vyIGmG429mM" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+            <div id="girl-container" style="width: 640px; height: 480px"></div>
+            <div id="girlPirat-container" style="width: 640px; height: 480px"></div>
+            <div id="witch-container" style="width: 640px; height: 480px"></div>
+            <div id="sofaLocation-container" style="width: 640px; height: 480px"></div>
 
         <div>
                
@@ -52,6 +53,14 @@
 
     <script>
 
+        new spine.SpinePlayer("girl-container", {
+            jsonUrl: "assets/girl/G1_13.json",
+            atlasUrl: "assets/girlPirat/G1_13.atlas",
+            backgroundColor: "993366",
+            skin: ["business"]
+            //animation: "animation"
+        });
+        
         new spine.SpinePlayer("girlPirat-container", {
             jsonUrl: "assets/girlPirat/Girl_pirat.json",
             atlasUrl: "assets/girlPirat/Girl_pirat.atlas",
