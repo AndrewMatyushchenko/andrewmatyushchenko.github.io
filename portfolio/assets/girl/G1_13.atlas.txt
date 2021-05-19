@@ -1,0 +1,970 @@
+
+G1_13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2arm
+  rotate: true
+  xy: 333, 1699
+  size: 96, 224
+  orig: 96, 233
+  offset: 0, 0
+  index: -1
+2arm_R1
+  rotate: true
+  xy: 984, 837
+  size: 178, 713
+  orig: 195, 718
+  offset: 0, 5
+  index: -1
+N_shoulder2_L
+  rotate: true
+  xy: 357, 1810
+  size: 86, 119
+  orig: 86, 119
+  offset: 0, 0
+  index: -1
+N_shoulder_L
+  rotate: true
+  xy: 801, 1390
+  size: 140, 424
+  orig: 140, 424
+  offset: 0, 0
+  index: -1
+basic/2basic_arm_R
+  rotate: true
+  xy: 286, 1081
+  size: 160, 662
+  orig: 160, 662
+  offset: 0, 0
+  index: -1
+basic/N_basic_chain
+  rotate: true
+  xy: 1394, 1648
+  size: 108, 585
+  orig: 108, 585
+  offset: 0, 0
+  index: -1
+basic/N_basic_shoe_L
+  rotate: true
+  xy: 618, 642
+  size: 196, 264
+  orig: 196, 264
+  offset: 0, 0
+  index: -1
+basic/N_basic_shoe_R
+  rotate: true
+  xy: 2, 1089
+  size: 185, 282
+  orig: 185, 282
+  offset: 0, 0
+  index: -1
+basic/N_basic_shoulder2_L
+  rotate: true
+  xy: 478, 1797
+  size: 86, 119
+  orig: 86, 119
+  offset: 0, 0
+  index: -1
+basic/N_basic_shoulder_L
+  rotate: true
+  xy: 1029, 1214
+  size: 152, 422
+  orig: 155, 422
+  offset: 3, 0
+  index: -1
+basic/basic_eye_ball
+  rotate: false
+  xy: 152, 1985
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+business/business_eye_ball
+  rotate: false
+  xy: 152, 1985
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+rock/rock_eye_ball
+  rotate: false
+  xy: 152, 1985
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+romantic/romantic_eye_ball
+  rotate: false
+  xy: 152, 1985
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+basic/basic_eye_base
+  rotate: false
+  xy: 1383, 1955
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+business/business_eye_base
+  rotate: false
+  xy: 1383, 1955
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+rock/rock_eye_base
+  rotate: false
+  xy: 1383, 1955
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+romantic/romantic_eye_base
+  rotate: false
+  xy: 1383, 1955
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+basic/basic_eyelashes1
+  rotate: false
+  xy: 2, 1986
+  size: 148, 20
+  orig: 148, 20
+  offset: 0, 0
+  index: -1
+business/business_eyelashes1
+  rotate: false
+  xy: 2, 1986
+  size: 148, 20
+  orig: 148, 20
+  offset: 0, 0
+  index: -1
+romantic/romantic_eyelashes1
+  rotate: false
+  xy: 2, 1986
+  size: 148, 20
+  orig: 148, 20
+  offset: 0, 0
+  index: -1
+basic/basic_eyelashes2
+  rotate: false
+  xy: 261, 1983
+  size: 151, 23
+  orig: 151, 23
+  offset: 0, 0
+  index: -1
+business/business_eyelashes2
+  rotate: false
+  xy: 261, 1983
+  size: 151, 23
+  orig: 151, 23
+  offset: 0, 0
+  index: -1
+romantic/romantic_eyelashes2
+  rotate: false
+  xy: 261, 1983
+  size: 151, 23
+  orig: 151, 23
+  offset: 0, 0
+  index: -1
+basic/basic_eyelids
+  rotate: false
+  xy: 874, 1962
+  size: 153, 44
+  orig: 153, 44
+  offset: 0, 0
+  index: -1
+business/business_eyelids
+  rotate: false
+  xy: 874, 1962
+  size: 153, 44
+  orig: 153, 44
+  offset: 0, 0
+  index: -1
+basic/basic_face
+  rotate: true
+  xy: 2, 505
+  size: 206, 284
+  orig: 206, 285
+  offset: 0, 1
+  index: -1
+basic/basic_forearm_L копия 2
+  rotate: true
+  xy: 271, 1569
+  size: 128, 248
+  orig: 131, 248
+  offset: 3, 0
+  index: -1
+basic/basic_forearm_R
+  rotate: true
+  xy: 1405, 416
+  size: 221, 259
+  orig: 223, 261
+  offset: 1, 1
+  index: -1
+basic/basic_hair_shadow
+  rotate: true
+  xy: 2, 2
+  size: 270, 283
+  orig: 270, 283
+  offset: 0, 0
+  index: -1
+basic/basic_happy
+  rotate: false
+  xy: 443, 1898
+  size: 111, 82
+  orig: 117, 90
+  offset: 4, 3
+  index: -1
+basic/basic_horny
+  rotate: false
+  xy: 815, 1794
+  size: 137, 88
+  orig: 139, 90
+  offset: 1, 1
+  index: -1
+basic/basic_kiss
+  rotate: false
+  xy: 2, 1912
+  size: 105, 72
+  orig: 119, 85
+  offset: 6, 4
+  index: -1
+basic/basic_sad
+  rotate: false
+  xy: 1617, 1857
+  size: 117, 85
+  orig: 119, 87
+  offset: 1, 1
+  index: -1
+basic/basic_shock
+  rotate: false
+  xy: 1605, 1766
+  size: 117, 89
+  orig: 119, 91
+  offset: 1, 1
+  index: -1
+basic/Сочность 1
+  rotate: true
+  xy: 431, 1243
+  size: 145, 596
+  orig: 147, 598
+  offset: 1, 1
+  index: -1
+boob_L
+  rotate: true
+  xy: 1203, 1873
+  size: 83, 174
+  orig: 83, 174
+  offset: 0, 0
+  index: -1
+business/2business_arm_R
+  rotate: true
+  xy: 2, 903
+  size: 176, 696
+  orig: 209, 696
+  offset: 0, 0
+  index: -1
+business/2business_arm_R_s
+  rotate: true
+  xy: 1477, 150
+  size: 250, 299
+  orig: 252, 301
+  offset: 1, 1
+  index: -1
+business/N_business_chain
+  rotate: true
+  xy: 1033, 1532
+  size: 114, 599
+  orig: 136, 599
+  offset: 22, 0
+  index: -1
+business/N_business_forearm_L
+  rotate: true
+  xy: 759, 1542
+  size: 129, 272
+  orig: 133, 272
+  offset: 4, 0
+  index: -1
+business/N_business_shoe_L
+  rotate: true
+  xy: 884, 639
+  size: 196, 264
+  orig: 196, 264
+  offset: 0, 0
+  index: -1
+business/N_business_shoe_R
+  rotate: true
+  xy: 950, 1027
+  size: 185, 282
+  orig: 185, 282
+  offset: 0, 0
+  index: -1
+business/N_business_shoulder2_L
+  rotate: true
+  xy: 109, 1909
+  size: 74, 128
+  orig: 76, 130
+  offset: 1, 1
+  index: -1
+business/N_business_shoulder_L
+  rotate: true
+  xy: 1608, 1363
+  size: 140, 428
+  orig: 140, 428
+  offset: 0, 0
+  index: -1
+business/business_face
+  rotate: true
+  xy: 288, 499
+  size: 206, 285
+  orig: 206, 285
+  offset: 0, 0
+  index: -1
+business/business_forearm_L_back
+  rotate: false
+  xy: 1029, 1962
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+business/business_forearm_R
+  rotate: false
+  xy: 331, 219
+  size: 238, 278
+  orig: 240, 280
+  offset: 1, 1
+  index: -1
+business/business_glasses
+  rotate: false
+  xy: 239, 1902
+  size: 202, 78
+  orig: 202, 78
+  offset: 0, 0
+  index: -1
+business/business_hair_back
+  rotate: false
+  xy: 521, 1547
+  size: 236, 135
+  orig: 236, 135
+  offset: 0, 0
+  index: -1
+business/business_happy
+  rotate: false
+  xy: 121, 1819
+  size: 115, 88
+  orig: 117, 90
+  offset: 1, 1
+  index: -1
+business/business_horny
+  rotate: false
+  xy: 954, 1794
+  size: 137, 88
+  orig: 139, 90
+  offset: 1, 1
+  index: -1
+business/business_kiss
+  rotate: false
+  xy: 556, 1885
+  size: 117, 83
+  orig: 119, 85
+  offset: 1, 1
+  index: -1
+business/business_sad
+  rotate: false
+  xy: 1736, 1853
+  size: 117, 85
+  orig: 119, 87
+  offset: 1, 1
+  index: -1
+business/business_shock
+  rotate: false
+  xy: 1724, 1762
+  size: 117, 89
+  orig: 119, 91
+  offset: 1, 1
+  index: -1
+business/business_torso_back
+  rotate: false
+  xy: 1453, 1188
+  size: 206, 173
+  orig: 208, 175
+  offset: 1, 1
+  index: -1
+business/Яркость/Контрастность 1
+  rotate: false
+  xy: 1661, 1184
+  size: 238, 177
+  orig: 238, 177
+  offset: 0, 0
+  index: -1
+forearm_L
+  rotate: true
+  xy: 1083, 1657
+  size: 121, 309
+  orig: 123, 309
+  offset: 2, 0
+  index: -1
+forearm_R
+  rotate: true
+  xy: 1666, 402
+  size: 221, 265
+  orig: 223, 267
+  offset: 1, 1
+  index: -1
+forearm_R1
+  rotate: true
+  xy: 599, 1795
+  size: 87, 214
+  orig: 89, 216
+  offset: 1, 1
+  index: -1
+forearm_R_shadow
+  rotate: true
+  xy: 1618, 1944
+  size: 62, 227
+  orig: 64, 229
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 1451
+  size: 176, 143
+  orig: 176, 150
+  offset: 0, 7
+  index: -1
+hand_L_shadow
+  rotate: false
+  xy: 772, 1677
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+rock/2rock_arm_R
+  rotate: true
+  xy: 1234, 1017
+  size: 165, 662
+  orig: 188, 669
+  offset: 0, 5
+  index: -1
+rock/N_rock_chain
+  rotate: true
+  xy: 180, 1418
+  size: 122, 619
+  orig: 130, 619
+  offset: 0, 0
+  index: -1
+rock/N_rock_shoe_L
+  rotate: true
+  xy: 1150, 639
+  size: 196, 264
+  orig: 196, 264
+  offset: 0, 0
+  index: -1
+rock/N_rock_shoe_R
+  rotate: true
+  xy: 700, 840
+  size: 185, 282
+  orig: 185, 282
+  offset: 0, 0
+  index: -1
+rock/N_rock_shoulder2_L
+  rotate: true
+  xy: 1855, 1849
+  size: 85, 117
+  orig: 87, 119
+  offset: 1, 1
+  index: -1
+rock/rock_bag
+  rotate: false
+  xy: 1682, 625
+  size: 275, 203
+  orig: 275, 203
+  offset: 0, 0
+  index: -1
+rock/rock_eyelashes1
+  rotate: false
+  xy: 414, 1982
+  size: 147, 24
+  orig: 147, 24
+  offset: 0, 0
+  index: -1
+rock/rock_eyelashes2
+  rotate: false
+  xy: 563, 1970
+  size: 156, 36
+  orig: 156, 36
+  offset: 0, 0
+  index: -1
+rock/rock_face
+  rotate: true
+  xy: 575, 434
+  size: 206, 285
+  orig: 206, 285
+  offset: 0, 0
+  index: -1
+rock/rock_forearm_L
+  rotate: true
+  xy: 2, 1596
+  size: 126, 267
+  orig: 128, 271
+  offset: 2, 4
+  index: -1
+rock/rock_forearm_R
+  rotate: true
+  xy: 1149, 418
+  size: 219, 254
+  orig: 221, 256
+  offset: 1, 1
+  index: -1
+rock/rock_hair_back
+  rotate: true
+  xy: 571, 194
+  size: 238, 289
+  orig: 243, 294
+  offset: 0, 5
+  index: -1
+rock/rock_hair_shadow
+  rotate: true
+  xy: 1141, 173
+  size: 241, 334
+  orig: 241, 334
+  offset: 0, 0
+  index: -1
+rock/rock_happy
+  rotate: false
+  xy: 1093, 1783
+  size: 115, 88
+  orig: 117, 90
+  offset: 1, 1
+  index: -1
+rock/rock_horny
+  rotate: false
+  xy: 1210, 1783
+  size: 137, 88
+  orig: 139, 90
+  offset: 1, 1
+  index: -1
+rock/rock_kiss
+  rotate: false
+  xy: 1379, 1870
+  size: 117, 83
+  orig: 119, 85
+  offset: 1, 1
+  index: -1
+rock/rock_sad
+  rotate: false
+  xy: 2, 1822
+  size: 117, 85
+  orig: 119, 87
+  offset: 1, 1
+  index: -1
+rock/rock_shock
+  rotate: false
+  xy: 1843, 1758
+  size: 117, 89
+  orig: 119, 91
+  offset: 1, 1
+  index: -1
+rock/rock_shoulder_L
+  rotate: true
+  xy: 2, 1276
+  size: 140, 427
+  orig: 143, 430
+  offset: 3, 3
+  index: -1
+romantic/N_romantic_chain
+  rotate: true
+  xy: 675, 1884
+  size: 76, 526
+  orig: 76, 534
+  offset: 0, 0
+  index: -1
+romantic/N_romantic_forearm_L
+  rotate: true
+  xy: 862, 183
+  size: 246, 277
+  orig: 246, 298
+  offset: 0, 0
+  index: -1
+romantic/N_romantic_forearm_R_back
+  rotate: true
+  xy: 1847, 1940
+  size: 66, 72
+  orig: 68, 74
+  offset: 1, 1
+  index: -1
+romantic/N_romantic_shoe_L
+  rotate: true
+  xy: 1416, 639
+  size: 196, 264
+  orig: 196, 264
+  offset: 0, 0
+  index: -1
+romantic/N_romantic_shoe_R
+  rotate: true
+  xy: 1699, 830
+  size: 185, 282
+  orig: 185, 282
+  offset: 0, 0
+  index: -1
+romantic/N_romantic_shoulder_L
+  rotate: true
+  xy: 308, 707
+  size: 194, 308
+  orig: 194, 326
+  offset: 0, 8
+  index: -1
+romantic/romantic_accessorie_neck
+  rotate: false
+  xy: 911, 1673
+  size: 170, 119
+  orig: 170, 119
+  offset: 0, 0
+  index: -1
+romantic/romantic_accessories_forearm_L
+  rotate: false
+  xy: 1538, 1947
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+romantic/romantic_accessories_forearm_R
+  rotate: true
+  xy: 1921, 1936
+  size: 70, 97
+  orig: 72, 99
+  offset: 1, 1
+  index: -1
+romantic/romantic_eyelids
+  rotate: false
+  xy: 721, 1964
+  size: 151, 42
+  orig: 153, 44
+  offset: 1, 1
+  index: -1
+romantic/romantic_face
+  rotate: true
+  xy: 862, 431
+  size: 206, 285
+  orig: 206, 285
+  offset: 0, 0
+  index: -1
+romantic/romantic_forearm_L_shadow
+  rotate: true
+  xy: 2, 713
+  size: 188, 304
+  orig: 188, 304
+  offset: 0, 0
+  index: -1
+romantic/romantic_forearm_R
+  rotate: true
+  xy: 1778, 113
+  size: 287, 263
+  orig: 289, 265
+  offset: 1, 1
+  index: -1
+romantic/romantic_hair_shadow
+  rotate: true
+  xy: 2, 274
+  size: 223, 327
+  orig: 223, 327
+  offset: 0, 0
+  index: -1
+romantic/romantic_happy
+  rotate: false
+  xy: 1349, 1780
+  size: 115, 88
+  orig: 117, 90
+  offset: 1, 1
+  index: -1
+romantic/romantic_horny
+  rotate: false
+  xy: 1466, 1772
+  size: 137, 88
+  orig: 139, 90
+  offset: 1, 1
+  index: -1
+romantic/romantic_kiss
+  rotate: false
+  xy: 1498, 1862
+  size: 117, 83
+  orig: 119, 85
+  offset: 1, 1
+  index: -1
+romantic/romantic_sad
+  rotate: false
+  xy: 238, 1815
+  size: 117, 85
+  orig: 119, 87
+  offset: 1, 1
+  index: -1
+romantic/romantic_shock
+  rotate: false
+  xy: 2, 1731
+  size: 117, 89
+  orig: 119, 91
+  offset: 1, 1
+  index: -1
+romantic/romantic_shoulder_strap_R
+  rotate: false
+  xy: 1258, 1958
+  size: 123, 48
+  orig: 125, 50
+  offset: 1, 1
+  index: -1
+romantic/romantic_shoulder_strap_R копия
+  rotate: false
+  xy: 1105, 1962
+  size: 151, 44
+  orig: 153, 46
+  offset: 1, 1
+  index: -1
+wrist_1_1
+  rotate: true
+  xy: 1432, 1368
+  size: 162, 174
+  orig: 164, 176
+  offset: 1, 1
+  index: -1
+wrist_1_2
+  rotate: true
+  xy: 1634, 1506
+  size: 140, 195
+  orig: 142, 197
+  offset: 1, 1
+  index: -1
+wrist_1_3
+  rotate: true
+  xy: 1831, 1505
+  size: 141, 189
+  orig: 143, 191
+  offset: 1, 1
+  index: -1
+wrist_2_4
+  rotate: true
+  xy: 1227, 1376
+  size: 154, 203
+  orig: 156, 205
+  offset: 1, 1
+  index: -1
+wrist_2_5
+  rotate: true
+  xy: 559, 1684
+  size: 109, 211
+  orig: 111, 213
+  offset: 1, 1
+  index: -1
+wrist_2_6
+  rotate: true
+  xy: 121, 1724
+  size: 89, 210
+  orig: 91, 212
+  offset: 1, 1
+  index: -1
+
+G1_132.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basic/N_basic_torso
+  rotate: false
+  xy: 2, 77
+  size: 402, 354
+  orig: 444, 354
+  offset: 42, 0
+  index: -1
+basic/basic_hair
+  rotate: true
+  xy: 867, 1086
+  size: 301, 372
+  orig: 301, 420
+  offset: 0, 48
+  index: -1
+basic/basic_hair_back
+  rotate: true
+  xy: 1211, 371
+  size: 340, 637
+  orig: 340, 652
+  offset: 0, 15
+  index: -1
+basic/basic_shorts
+  rotate: false
+  xy: 1580, 1061
+  size: 376, 314
+  orig: 390, 314
+  offset: 12, 0
+  index: -1
+basic/basic_shoulder_R
+  rotate: true
+  xy: 1292, 1666
+  size: 258, 341
+  orig: 260, 343
+  offset: 1, 1
+  index: -1
+basic/Слой 915
+  rotate: true
+  xy: 2, 1398
+  size: 273, 284
+  orig: 273, 284
+  offset: 0, 0
+  index: -1
+business/business_hair
+  rotate: true
+  xy: 288, 1391
+  size: 276, 315
+  orig: 276, 448
+  offset: 0, 119
+  index: -1
+business/business_shoulder_R
+  rotate: true
+  xy: 1621, 1377
+  size: 280, 360
+  orig: 282, 362
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 770
+  size: 314, 1224
+  orig: 321, 1236
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 433
+  size: 335, 1207
+  orig: 335, 1207
+  offset: 0, 0
+  index: -1
+rock/2rock_leg_R
+  rotate: true
+  xy: 795, 2
+  size: 367, 1103
+  orig: 367, 1103
+  offset: 0, 0
+  index: -1
+rock/N_rock_torso
+  rotate: false
+  xy: 1575, 713
+  size: 410, 346
+  orig: 410, 350
+  offset: 0, 4
+  index: -1
+rock/rock_hair
+  rotate: true
+  xy: 2, 1106
+  size: 283, 351
+  orig: 283, 351
+  offset: 0, 0
+  index: -1
+rock/rock_leg_L
+  rotate: true
+  xy: 605, 1389
+  size: 275, 1014
+  orig: 283, 1022
+  offset: 0, 0
+  index: -1
+rock/rock_shoulder_R
+  rotate: true
+  xy: 370, 1669
+  size: 255, 344
+  orig: 257, 346
+  offset: 1, 1
+  index: -1
+romantic/2N_romantic_torso2
+  rotate: false
+  xy: 2, 1673
+  size: 366, 251
+  orig: 366, 267
+  offset: 0, 13
+  index: -1
+romantic/2romantic_arm
+  rotate: true
+  xy: 716, 1668
+  size: 256, 574
+  orig: 256, 574
+  offset: 0, 0
+  index: -1
+romantic/2romantic_arm_shadow
+  rotate: true
+  xy: 355, 1091
+  size: 296, 510
+  orig: 296, 510
+  offset: 0, 0
+  index: -1
+romantic/romantic_bag
+  rotate: true
+  xy: 1228, 740
+  size: 341, 345
+  orig: 341, 345
+  offset: 0, 0
+  index: -1
+romantic/romantic_shoulder_R
+  rotate: true
+  xy: 1241, 1083
+  size: 304, 337
+  orig: 306, 339
+  offset: 1, 1
+  index: -1
+romantic/romantic_skirt
+  rotate: true
+  xy: 406, 63
+  size: 368, 387
+  orig: 376, 416
+  offset: 0, 28
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 1635, 1659
+  size: 265, 337
+  orig: 267, 339
+  offset: 1, 1
+  index: -1
+
+G1_133.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_torso
+  rotate: false
+  xy: 2, 100
+  size: 418, 896
+  orig: 418, 898
+  offset: 0, 2
+  index: -1
+business/N_business_torso
+  rotate: true
+  xy: 422, 2
+  size: 412, 456
+  orig: 412, 459
+  offset: 0, 3
+  index: -1
+business/business_skirt
+  rotate: false
+  xy: 422, 416
+  size: 386, 580
+  orig: 386, 580
+  offset: 0, 0
+  index: -1
+romantic/romantic__hair
+  rotate: false
+  xy: 880, 6
+  size: 392, 444
+  orig: 400, 465
+  offset: 0, 18
+  index: -1
+romantic/romantic_hair_back
+  rotate: false
+  xy: 810, 452
+  size: 448, 544
+  orig: 457, 581
+  offset: 0, 4
+  index: -1
